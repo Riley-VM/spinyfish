@@ -1,1 +1,1 @@
-this has been moved to [here](https://git.gay/Riley/pages/src/branch/main/spinyfish)
+this has been moved to [here](https://git.gay/Ri/pages/src/branch/main/spinyfish)
